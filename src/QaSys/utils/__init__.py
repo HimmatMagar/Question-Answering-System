@@ -4,7 +4,7 @@ import json
 import joblib
 from pathlib import Path
 from box.config_box import ConfigBox
-from QaGPT import logger
+from QaSys import logger
 from ensure import ensure_annotations
 from box.exceptions import BoxValueError
 
