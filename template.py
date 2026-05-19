@@ -9,7 +9,7 @@ logging.basicConfig(
 )
 
 
-project_name = "QaGPT"
+project_name = "QaSys"
 
 list_of_file = [
       f"src/{project_name}/__init__.py",
