@@ -2,13 +2,13 @@ import setuptools
 
 __version__ = '0.0.0.0'
 
-REPO_NAME = "Question-Answering-System-GPT"
+REPO_NAME = "Question-Answering-System"
 AUTHOR_USER_NAME = "HimmatMagar"
-SRC_REPO = "QaGPT"
+SRC_REPO = "QaSys"
 AUTHOR_EMAIL = "himmatmagar007@gmail.com"
 
 setuptools.setup(
-      name="QaGPT",
+      name="QaSys",
       version=__version__,
       author=AUTHOR_USER_NAME,
       author_email=AUTHOR_EMAIL,
