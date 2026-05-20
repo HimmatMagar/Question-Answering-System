@@ -35,7 +35,7 @@ class ModelTraining:
 
       def training_args(self):
             return Seq2SeqTrainingArguments(
-                  output_dir="./flan-t5-lora-qa",
+                  output_dir="artifact/flan-t5-lora-qa",
                   num_train_epochs=20,
                   per_device_train_batch_size=8,
                   per_device_eval_batch_size=8,
