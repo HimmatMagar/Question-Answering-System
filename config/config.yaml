@@ -10,4 +10,3 @@ data_ingestion:
 model_training:
   root_dir: artifact/model
   data_path: artifact/data_ingestion/general_knowledge_qa.csv
-  adapter: t5-adapter
